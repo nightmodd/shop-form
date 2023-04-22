@@ -1,0 +1,28 @@
+{
+    "name": "shopping-form",
+    "version": "1.0.0",
+    "description": "",
+    "main": "shopping.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "eslintConfig": {
+        "extends": [
+            "wesbos"
+        ],
+        "rules": {
+            "prettier/prettier": [
+                "error"
+            ]
+        }
+    },
+    "keywords": [],
+    "author": "nightmodd",
+    "license": "ISC",
+    "dependencies": {
+        "eslint-config-wesbos": "^3.2.3"
+    },
+    "devDependencies": {
+        "eslint": "^8.37.0"
+    }
+}
